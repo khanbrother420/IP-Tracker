@@ -71,7 +71,7 @@ ${yellow} | || |_) |____| || '__/ _' |/ __| |/ / _ \ '__|
 ${blue} | ||  __/_____| || | | (_| | (__|   <  __/ |
 ${green}|___|_|        |_||_|  \__,_|\___|_|\_\___|_|
 ${yellow}                                       [v${version}]
-${purple}                               [By KasRoudra]
+${purple}                               [By Khan]
 "
 
 ngrok_help="
@@ -526,10 +526,10 @@ fi
         echo -e "$red[ToolName]  ${cyan}  :[IP-Tracker]
 $red[Version]    ${cyan} :[${version}]
 $red[Description]${cyan} :[IP Tracking tool]
-$red[Author]     ${cyan} :[KasRoudra]
-$red[Github]     ${cyan} :[https://github.com/KasRoudra] 
-$red[Messenger]  ${cyan} :[https://m.me/KasRoudra]
-$red[Email]      ${cyan} :[kasroudrakrd@gmail.com]"
+$red[Author]     ${cyan} :[Khan Official]
+$red[Github]     ${cyan} :[https://github.com/khanbrother420] 
+$red[Messenger]  ${cyan} :[https://m.me/Mr.KhanVau420]
+$red[Email]      ${cyan} :[khan@gmail.com]"
         printf "$ip_prompt"
         read about
     elif echo $option | grep -q "0"; then
